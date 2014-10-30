@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="connWX"
+  id="myeclipse.1410252585734"
+  context-root="/connWX"
+  j2ee-spec="6.0"
+  archive="connWX.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
